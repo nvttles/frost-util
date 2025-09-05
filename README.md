@@ -14,7 +14,7 @@ Since Frost is known as a module, you will need to require it! Of course, howeve
 ```fnl
 (local mylib (require :Frost))
 ```
-<As you can see, it is similar to Lua, in which you require modules.<
+<[!NOTE]As you can see, it is similar to Lua, in which you require modules.<
 Now, you have full access to the math library, Frost. Feel free to use any functions as you wish.
 If you want to learn how to use these functions, you can visit my documentation here:
 
