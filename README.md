@@ -28,7 +28,7 @@ I will not be releasing an official documentation for this as it is not a bit pr
 ---
 ## Note
 Tysm for viewing my work. If ya like follow me and star to see more. I will not be looking at any pulls as I generally am leaving this shit alone.
-< [!WARNING]
-< Copying this and/or claiming it as your own will result in a DMCA (Digital Media Copyright Act) and you will be sued if I find out. More about DMCA: DMCA stands for the Digital Millennium Copyright Act, a United States law that amended existing copyright laws to address digital content and online copyright infringement. It provides both protection for copyright holders by outlining infringement procedures like takedown notices, and protection for online service providers (OSPs) through "safe harbor" provisions. The DMCA prohibits circumventing technological measures that control access to copyrighted works and also makes it illegal to distribute devices or technologies that do so. 
+> [!WARNING]
+> Copying this and/or claiming it as your own will result in a DMCA (Digital Media Copyright Act) and you will be sued if I find out. More about DMCA: DMCA stands for the Digital Millennium Copyright Act, a United States law that amended existing copyright laws to address digital content and online copyright infringement. It provides both protection for copyright holders by outlining infringement procedures like takedown notices, and protection for online service providers (OSPs) through "safe harbor" provisions. The DMCA prohibits circumventing technological measures that control access to copyrighted works and also makes it illegal to distribute devices or technologies that do so. 
 
 
